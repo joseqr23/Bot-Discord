@@ -22,7 +22,9 @@ pip install -r requirements.txt
 
 ## 5- Debes reemplazar "BOT_TOKEN" por el token que te generó del bot en discord dev.
 
-## 6- Ejecutar proyecto
+## 6- En la sección de BOT en Discord Dev. en la parte de "Privileged Gateway Intents" habilitar las 3 opciones.
+
+## 7- Ejecutar proyecto
 
 ```bash
 python manage.py
