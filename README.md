@@ -45,7 +45,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 5- Debes reemplazar "BOT_TOKEN" por el token que se te generó del bot en Discord Dev.
+## 5- Debes reemplazar "BOT_TOKEN" por el token que se te generó del bot en Discord Dev. en la sección BOT.
 
 ## 6- Ejecutar proyecto
 
